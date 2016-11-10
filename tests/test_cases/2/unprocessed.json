@@ -1,0 +1,35 @@
+{
+	"first_name": "",
+	"last_name" : "",
+	"user_name" : "",
+	"phone"     : "",
+	"email"     : "",
+	"cart": {
+		"cart_id"   : "",
+		"cart_count": "",
+		"products"  : [{
+			"product_id": "",
+			"quantity"  : "",
+			"price"     : "",
+			"name"      : "",
+			"images"    : {
+				"main_img"  : "",
+				"alt_images": [
+					""
+				]
+			}
+		}],
+		"wishlist": [{
+			"product_id": "",
+			"quantity"  : "",
+			"price"     : "",
+			"name"      : "",
+			"images"    : {
+				"main_img"  : "",
+				"alt_images": [
+					""
+				]
+			}
+		}]
+	}
+}

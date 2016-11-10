@@ -1,0 +1,11 @@
+{
+	"key_delimiter": " > ",
+	"val_format": {
+		"currency1": "cents_as_currency",
+		"currency2": "dollars_as_currency"
+	},
+	"loop_through_vals": {
+		"products": "user > items > products",
+		"swatches": "images > swatches"
+	}
+}

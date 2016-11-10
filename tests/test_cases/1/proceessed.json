@@ -1,0 +1,88 @@
+{
+    "user_info": {
+        "email": "user@site.com",
+        "user_name": "user_name",
+        "phone": "283 342 5778",
+        "first_name": "first",
+        "last_name": "last"
+    },
+    "cart": {
+        "cart_id": "927543",
+        "products": [
+            {
+                "price": {
+                    "discount": {
+                        "dollars": 12.99,
+                        "cents": 1299
+                    },
+                    "regular": "$15.99"
+                },
+                "main_img": "domain.com/main.jpg",
+                "product_id": "1123kjh4g41k",
+                "swatches": [
+                    "site.com/blue_swatch",
+                    "site.com/green_swatch",
+                    "site.com/brown_swatch"
+                ],
+                "images": [
+                    "domain.com/blue.jpg",
+                    "domain.com/green.jpg",
+                    "domain.com/brown.jpg"
+                ],
+                "discount": {
+                    "dollars": 12.99,
+                    "currency1": "$12.99",
+                    "currency2": "$12.99",
+                    "cents": 1299
+                },
+                "name": "insert something you like here :)",
+                "quantity": "2"
+            },
+            {
+                "price": {
+                    "discount": "$12:99",
+                    "regular": "$15:99"
+                },
+                "main_img": "domain.com/main.jpg",
+                "product_id": "1123kjh4g41k",
+                "swatches": [],
+                "images": [
+                    "domain.com/blue.jpg",
+                    "domain.com/green.jpg",
+                    "domain.com/brown.jpg"
+                ],
+                "discount": {
+                    "dollars": "",
+                    "currency1": null,
+                    "currency2": null,
+                    "cents": ""
+                },
+                "name": "insert something you like here :)",
+                "quantity": "2"
+            },
+            {
+                "price": {
+                    "discount": "$12:99",
+                    "regular": "$15:99"
+                },
+                "main_img": "domain.com/main.jpg",
+                "product_id": "1123kjh4g41k",
+                "swatches": [],
+                "images": [
+                    "domain.com/blue.jpg",
+                    "domain.com/green.jpg",
+                    "domain.com/brown.jpg"
+                ],
+                "discount": {
+                    "dollars": "",
+                    "currency1": null,
+                    "currency2": null,
+                    "cents": ""
+                },
+                "name": "insert something you like here :)",
+                "quantity": "2"
+            }
+        ],
+        "cart_count": "3"
+    }
+}

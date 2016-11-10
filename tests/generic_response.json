@@ -1,0 +1,22 @@
+{
+	"user_info": {
+		"user_name" : "user > display_info > un",
+		"first_name": "user > billing > fn",
+		"last_name" : "user > billing > ln",
+		"phone"     : "user > billing > phone",
+		"email"     : "user > billing > email"
+	},
+	"cart": {
+		"cart_id"   : "user > items > cart_id",
+		"cart_count": "user > items > cart_count",
+		"products"  : [{
+			"product_id": "pid",
+			"quantity"  : "qty",
+			"main_img"  : "images > main_img",
+			"swatches"  : ["img"],
+			"images"    : "images > alt_images",
+			"price"     : "price",
+			"name"      : "name"
+		}]
+	}
+}

@@ -1,0 +1,82 @@
+{
+	"user": {
+		"billing": {
+			"fn"        : "first",
+			"ln"        : "last",
+			"phone"     : "283 342 5778",
+			"email"     : "user@site.com"
+		},
+		"display_info": {
+			"un"        : "user_name",
+			"desc"      : "I am a user",
+			"img"       : "http://some_url.com/img..."
+		},
+		"items": {
+			"cart_id"   : "927543",
+			"cart_count": "3",
+			"products"  : [{
+				"pid"  : "1123kjh4g41k",
+				"qty"  : "2",
+				"name" : "insert something you like here :)",
+				"price": {
+					"regular" : "$15.99",
+					"discount": {
+						"cents": 1299,
+						"dollars": 12.99
+					}
+				},
+				"images"    : {
+					"main_img"  : "domain.com/main.jpg",
+					"swatches"  : [{
+							"color": "blue",
+							"img"  : "site.com/blue_swatch"
+						}, {
+							"color": "green",
+							"img"  : "site.com/green_swatch"
+						}, {
+							"color": "brown",
+							"img"  : "site.com/brown_swatch"
+						}
+					],
+					"alt_images": [
+						"domain.com/blue.jpg",
+						"domain.com/green.jpg",
+						"domain.com/brown.jpg"
+					]
+				}
+			}, {
+				"pid"  : "1123kjh4g41k",
+				"qty"  : "2",
+				"name" : "insert something you like here :)",
+				"price": {
+					"regular" : "$15:99",
+					"discount": "$12:99"
+				},
+				"images": {
+					"main_img"  : "domain.com/main.jpg",
+					"alt_images": [
+						"domain.com/blue.jpg",
+						"domain.com/green.jpg",
+						"domain.com/brown.jpg"
+					]
+				}
+			}, {
+				"pid"  : "1123kjh4g41k",
+				"qty"  : "2",
+				"name" : "insert something you like here :)",
+				"price": {
+					"regular" : "$15:99",
+					"discount": "$12:99"
+				},
+				"images": {
+					"main_img"  : "domain.com/main.jpg",
+					"alt_images": [
+						"domain.com/blue.jpg",
+						"domain.com/green.jpg",
+						"domain.com/brown.jpg"
+					]
+				}
+			}]
+		}
+	}
+}
